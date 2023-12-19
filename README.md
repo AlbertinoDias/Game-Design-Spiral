@@ -18,7 +18,7 @@ A Computer Monster collectathon RPG mixed with farming/harvesting elements set i
 Restore the sanctuary (base) and explore nearby areas while making new friends without forgetting to get every creature you encounter and train them to defeat every challenge.
 Inspired by: "Pokemon", "Digimon", "Stardew Valley"
 
-<h3>Inside the project</h3>
+<h4>Inside the project</h4>
 <ul>
   <li>Completed GDD;</li>
   <li>Implementation pipeline.</li>
@@ -30,7 +30,7 @@ A tower defense mobile game set in a traditional fantasy setting.
 Take control of a slime and defend the castle from outside forces with 999 levels to go through (plans for infinite levels)
 Inspired by: "Defender II"
 
-<h3>Inside the project</h3>
+<h4>Inside the project</h4>
 <!--<ul>
   <li></li>
   <li></li>
@@ -43,6 +43,7 @@ VR autobattler with fantasy dinosaurs
 Become a dinosaur tamer via a variety of minigames, raise them, and bring them to the colosseum where they will battle to gain glory.
 Inspired by: "Digimon world championship".
 
+<h4>Inside the project</h4>
 <ul>
   <li>Completed GDD</li>
   <!--<li></li>-->
@@ -53,6 +54,7 @@ Inspired by: "Digimon world championship".
 VR volley/frisbee throwing sports game. 
 Inspired by: "windjammers", a VR take on the game.
 
+<h4>Inside the project</h4>
 <ul>
   <li>Completed GDD</li>
   <!--<li></li>-->
@@ -64,6 +66,7 @@ Inspired by: "windjammers", a VR take on the game.
 Take control of the main character as they flee from their hometown falsely accused of arson as they go on a journey to rediscover themselves and what to do next.
 Inspired by: "Megaman battle network" series
 
+<h4>Inside the project</h4>
 <ul>
   <li>Completed GDD</li>
   <!--<li></li>-->
