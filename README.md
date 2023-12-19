@@ -1,5 +1,7 @@
 # Game-Design-Spiral
 This repository works as a place to save/show all the Game Design stuff I created/am working on.
+If you like any of the ideas and decide to use them, I only ask for you to shout me out, would appreciate that, thanks :)
+
 
 <h1>Notes:</h1> 
 <ul>
@@ -31,11 +33,11 @@ Take control of a slime and defend the castle from outside forces with 999 level
 Inspired by: "Defender II"
 
 <h4>Inside the project</h4>
-<!--<ul>
-  <li></li>
-  <li></li>
+<ul>
+  <li>Completed GDD;</li>
+  <li>Implementation pipeline.</li>
 </ul>
--->
+
 
 
 <h2>Dino Legacy</h2>
