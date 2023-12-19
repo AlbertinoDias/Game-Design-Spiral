@@ -46,7 +46,7 @@ Inspired by: "Digimon world championship".
 <h4>Inside the project</h4>
 <ul>
   <li>Completed GDD</li>
-  <!--<li></li>-->
+  <!-- <li></li> -->
 </ul>
 
 
@@ -57,7 +57,7 @@ Inspired by: "windjammers", a VR take on the game.
 <h4>Inside the project</h4>
 <ul>
   <li>Completed GDD</li>
-  <!--<li></li>-->
+  <!-- <li></li> -->
 </ul>
 
 
@@ -69,5 +69,5 @@ Inspired by: "Megaman battle network" series
 <h4>Inside the project</h4>
 <ul>
   <li>Completed GDD</li>
-  <!--<li></li>-->
+  <!-- <li></li> -->
 </ul>
